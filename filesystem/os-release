@@ -1,0 +1,7 @@
+NAME="EntityOS"
+ID=EntityOS
+PRETTY_NAME="Entity OS"
+ANSI_COLOR="1;32"
+HOME_URL="http://www.entityos.com/"
+SUPPORT_URL="http://www.entityos.com/"
+BUG_REPORT_URL="http://bugs.entityos.com/"
