@@ -1,4 +1,5 @@
-# Alexandre Filgueira <alexfilgueira@antergos.com>
+# Maintainer: Risha S Changmai <michaelspeed.michaelcorp@live.com>
+
 
 pkgname=python-parted
 pkgver=3.10.7

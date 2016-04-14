@@ -1,4 +1,4 @@
-# Antergos Developers <dev@antergos.com>
+# Maintainer: Risha S Changmai <michaelspeed.michaelcorp@live.com>
 
 pkgname=python-bugsnag
 _pkgname=bugsnag-python
@@ -10,7 +10,7 @@ arch=('any')
 license=('custom')
 depends=('python' 'python-setuptools')
 source=("${pkgname}-${pkgver}::https://github.com/bugsnag/bugsnag-python/archive/${pkgver}.tar.gz")
-sha256sums=('8cbaf024fbbc73cdceab2eac0937035052da48295970fe9eaa84b19d8e353e19')
+sha256sums=('697c3fa55b4853431ca42533f12571bf4469c900f8fa6626c0b981852b655514')
 
 build() {
 	cd "${srcdir}"/${_pkgname}-${pkgver}
